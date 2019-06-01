@@ -1,0 +1,40 @@
+.col1 {
+	background-color: grey;
+	height: auto;
+}
+
+.col1-h1-sittings {
+	text-align: center;
+}
+
+.col1-p-sittings {
+	text-align: center;
+}
+
+.col2 {
+	background-color: #E6E6FA;
+	height: auto;
+}
+
+.col3 {
+	background-color: green;
+	height: auto;
+}
+
+.col4 {
+	background-color: #E6E6FA;
+	height: auto;
+}
+
+.col5 {
+	background-color: grey;
+	height: auto;
+}
+
+.Insta1 {
+	width: 50px;
+}
+
+.Insta2 {
+	width: 25px;
+}
